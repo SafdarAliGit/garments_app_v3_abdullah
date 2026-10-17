@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include garments_app_v3_abdullah *.css
+recursive-include garments_app_v3_abdullah *.csv
+recursive-include garments_app_v3_abdullah *.html
+recursive-include garments_app_v3_abdullah *.ico
+recursive-include garments_app_v3_abdullah *.js
+recursive-include garments_app_v3_abdullah *.json
+recursive-include garments_app_v3_abdullah *.md
+recursive-include garments_app_v3_abdullah *.png
+recursive-include garments_app_v3_abdullah *.py
+recursive-include garments_app_v3_abdullah *.svg
+recursive-include garments_app_v3_abdullah *.txt
+recursive-exclude garments_app_v3_abdullah *.pyc
