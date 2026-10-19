@@ -5,6 +5,8 @@ app_description = "this is new garments app"
 app_email = "safdar211@gamil.com"
 app_license = "MIT"
 
+required_apps = ["erpnext"]
+
 doc_events = {
 # 	"*": {
 # 		"on_update": "method",
